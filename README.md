@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on some Discord bots in Python 🐍
+- 🔭 I’m currently working on some Unity stuff
 - 📫 How to reach me: wahidbawa10@gmail.com
 - ⚡ Fun fact: I'm a 🦆, quack quack
 - ✨ Best Lang: Python 🐍
