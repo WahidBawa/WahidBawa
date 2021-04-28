@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on some VGDC stuff
+- 🔭 Getting ready for internship 👀
 - 📫 How to reach me: wahidbawa10@gmail.com
 - ⚡ Fun fact: I'm a 🦆, quack quack
 - ✨ Best Lang: Python 🐍
