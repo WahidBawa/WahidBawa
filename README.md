@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 Getting ready for internship 👀
 - 📫 How to reach me: wahidbawa10@gmail.com
-- ⚡ Fun fact: I'm a 🦆, quack quack
-- ✨ Best Lang: Python 🐍
+- ⚡ Fun fact: I don't care.
 
 <!-- Thanks for the stuff below rooch (https://github.com/FerruccioSisti/) -->
 
